@@ -2,8 +2,8 @@
 
 <div align="center">I'm a student in the first year of web development in Lyon.</div>
 
-
-<h2 align="center"></h2>
+<br>
+<br>
 
 <h2 align="center">Used Technologies</h2>
 
@@ -33,3 +33,18 @@
   <img width="25" />
 
 </div>
+
+<br>
+<br>
+
+<h2 align="center">Languages I Speak</h2>
+
+<p align="center">🇫🇷 French - Native / 🇬🇧 English - Proficient</p>
+
+<br>
+<br>
+
+<h2 align="center">Hobbies</h2>
+
+<p align="center">🎉 Going out to parties / 🎶 Listening to music / 🏋️‍♂️ Do sports</p>
+
