@@ -1,12 +1,35 @@
-<h2 align="center">Hi there ! I'm Raphaël </h2>
+<h2 align="center">Hi there ! I'm Arthur </h2>
 
-***
-Welcome to my github account. I'm a french student in second year of developpement web based in Lyon.
-***
-
-<h2 align="center">GitHub Stats</h2>
+<div align="center">I'm a student in the first year of web development in Lyon.</div>
 
 
-<div align="center">Here are some statistics about my GitHub contributions:</div>
+<h2 align="center"></h2>
+
+<h2 align="center">Used Technologies</h2>
 
 <div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="25" />  
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="60" alt="ubuntu logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="60" alt="webstorm logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="60" alt="wordpress logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="60" alt="illustrator logo"  />
+  <img width="25" />
+
+</div>
