@@ -1,6 +1,6 @@
-<h2 align="center">Hi there ! I'm Arthur </h2>
+<h2 align="center">Hi there ! I am Arthur </h2>
 
-<div align="center">I'm currently a student in the first year of web development in Lyon.</div>
+<div align="center">I am currently a student in the first year of web development in Lyon.</div>
 
 <br>
 <br>
