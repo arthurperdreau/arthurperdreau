@@ -51,5 +51,5 @@
 
 <p align="center">🎉 Going out to parties / 🎶 Listening to music / 🏋️‍♂️ Do sports</p>
 
-<img src="https://www.svgrepo.com/show/452067/ms-outlook.svg" height="60" alt="outlook"/>
+<img src="https://www.svgrepo.com/show/452067/ms-outlook.svg" height="60" alt="outlook" link="arthur.perdreau@outlook.fr"/>
 
