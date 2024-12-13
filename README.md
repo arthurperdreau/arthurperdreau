@@ -43,10 +43,13 @@
 
 <p align="center">🇫🇷 French - Native / 🇬🇧 English - Proficient</p>
 
+
 <br>
 <br>
 
 <h2 align="center">Hobbies</h2>
 
 <p align="center">🎉 Going out to parties / 🎶 Listening to music / 🏋️‍♂️ Do sports</p>
+
+<img src="https://www.svgrepo.com/show/452067/ms-outlook.svg" height="60" alt="outlook"/>
 
