@@ -41,6 +41,8 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" />
   <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" alt="symfony logo" />        <img width="25" />
+
 
 
 </div>
