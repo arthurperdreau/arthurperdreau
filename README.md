@@ -41,7 +41,7 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" height="60" alt="symfony logo" />
+  <img src="https://avatars.githubusercontent.com/u/143937?s=200&v=4" alt="symfony logo" width="60" height="60" style="margin-bottom: 5px;">
   <img width="25" />
 
 
